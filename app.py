@@ -1,3 +1,4 @@
+# KR2: Magomerzaev
 import os
 import socket
 
